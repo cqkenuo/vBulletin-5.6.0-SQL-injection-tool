@@ -4,9 +4,9 @@
 
 QQ群号：1121693591 密码HW
 
-[Github](https://github.com/zygds/vBulletin-5.6.1-SQL-injection-tool)
+[Github](https://github.com/zygds/vBulletin-5.6.0-SQL-injection-tool)
 
-[Gitee](https://gitee.com/zygds/vBulletin-5.6.1-SQL-injection-tool)
+[Gitee](https://gitee.com/zygds/vBulletin-5.6.0-SQL-injection-tool)
 
 侵权联系删除：QQ：3071597936
 
